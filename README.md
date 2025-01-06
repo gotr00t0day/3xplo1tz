@@ -11,3 +11,13 @@ A meticulously curated collection of exploitation tools for the discerning secur
 - Cleaner code than your production environment
 - Better documentation than your college notes
 - Smoother than social engineering the help desk
+
+### 🎮 Capabilities Matrix:
+```c
+arsenal = {
+"recon": "More thorough than your ex's social media stalking",
+"exploit": "Smoother than a cat burglar in velvet socks",
+"post_ex": "More persistent than your grandmother's Facebook notifications",
+"exfil": "Sneakier than office snacks disappearing from the break room"
+}
+```
