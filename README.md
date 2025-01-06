@@ -22,7 +22,7 @@ arsenal = {
 }
 ```
 
-### Disclaimer:
+### 📜 Disclaimer:
 
 Remember: With great exploits comes great responsibility... and incident response tickets.
 
